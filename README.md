@@ -8,7 +8,7 @@ DO  THIS EXERCISE
 
 2)How many votes has each type of resfiltreceived from customers?
 
-3) What are the ratings that the majority of restaurants have releival2
+3)What are the ratings that the majority of restaurants have releival2
 
 4)Zomato has observed that most couples order most of their food online. Wh average spending on each order?
 
